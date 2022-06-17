@@ -1,0 +1,57 @@
+.red {
+    background: #c71226;
+    height: 100px;
+}
+
+.blue {
+    background: #0d1b88;
+    height: 100px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.green {
+    background: #397327;
+    height: 100px;
+}
+
+.card {
+    color: whitesmoke;
+    background-color: #109bc5;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    line-height: 20px;
+    font-family: 'courier';
+
+    border-radius: 25px;
+    border: 8px solid #4e4e4e;
+
+    padding: 20px;
+
+}
+
+.Follow {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5em;
+
+    color: #0f1419;
+    border: 3px solid #cfd9de;
+    background-color: white;
+    border-radius: 30px;
+
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+    font-weight: bolder;
+    font-size: 20px;
+
+    cursor: pointer;
+}
+
+
